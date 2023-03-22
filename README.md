@@ -4,3 +4,6 @@
 ### Machine Learning Specialization
 ### Deep Learning Specialization
 ### Structuring Machine Learning Project
+### Google IT Automation
+### Google Data Analytic
+### Math for Machine Learning
